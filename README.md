@@ -1,3 +1,5 @@
 # Identity-V-Model-Importer
 
-for dll updates: [XXMI-Package](https://github.com/SpectrumQT/XXMI-Libs-Package/releases)
+For dll updates: [XXMI-Package](https://github.com/SpectrumQT/XXMI-Libs-Package/releases)
+
+Made by modifying [ZZMI-Package](https://github.com/leotorrez/ZZMI-Package) configuration
